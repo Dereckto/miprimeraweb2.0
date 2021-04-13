@@ -1,0 +1,31 @@
+.logo img{
+width: 50%;
+height: auto;
+}
+.color-texto{
+    color: black;
+}
+.footer{
+    background-color: teal;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    background-color: red;
+    color: black;
+    height: 60px;
+    border: 5px black solid;
+    border-radius:  80px;
+}
+
+.btn-div {
+    text-align: center;
+    margin-bottom: 10%;
+    margin: 0 auto;
+}
